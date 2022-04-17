@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/newpactic/static/css/main.eedde5a6.css",
+    "main.js": "/newpactic/static/js/main.d0566181.js",
+    "index.html": "/newpactic/index.html",
+    "main.eedde5a6.css.map": "/newpactic/static/css/main.eedde5a6.css.map",
+    "main.d0566181.js.map": "/newpactic/static/js/main.d0566181.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eedde5a6.css",
+    "static/js/main.d0566181.js"
+  ]
+}
