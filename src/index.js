@@ -1,17 +1,18 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDom from "react-dom";
+// import App from "./App";
+// import Rhook from "./Rhook"
+// import TimeChan from "./TimeChan"
+// import Timer from "./Timer"
+// import Eventdemo from "./Eventdemo"
+import "./index.css";
+// import Form_v from "./Form-v"
+// import DoubleIn from "./DoubleIn";
+// import Login from "./Login";
+// import ShortLogin from "./ShortLogin"
+// import TodoList from "./TodoList";
+import ChalengeINcreDEr from "./ChalengeINcreDEr"
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+
+ReactDom.render(<ChalengeINcreDEr/>,document.getElementById("root"));
